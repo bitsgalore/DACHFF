@@ -15,7 +15,7 @@ After the session I will also make the presentation slides available here.
 ### Background reading
 
 * [Binary data](https://en.wikipedia.org/wiki/Binary_data)
-* [Counting in binary](https://en.wikipedia.org/wiki/Binary_number#Counting_in_binary)
+* [Counting in binary](https://en.wikipedia.org/wiki/Binary_number#Counting_in_binary) (you can skip the other sections in this article!)
 * [Practice converting between decimal and binary representation](http://acc6.its.brooklyn.cuny.edu/~gurwitz/core5/nav2tool.html)
 
 ## Text-based formats
