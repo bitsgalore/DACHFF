@@ -48,21 +48,31 @@ Some examples:
 
 Note: this is just to give you an idea what a file format specification looks like. Obviously I don't expect anyone to actually read through the whole of any of these documents!
 
-## Open formats vs closed formats
+## Open formats vs proprietary formats
+
+* [Open format](https://en.wikipedia.org/wiki/Open_format) - includes list of examples.
+* [Proprietary format](https://en.wikipedia.org/wiki/Proprietary_format) - includes list of examples.
+
+## Format validation
+
+* [Online HTML validator](https://validator.w3.org/)
+* [Online EPUB validator](http://validator.idpf.org/)
 
 ## Information about file formats on the web
 
 * [Archive Team File Formats Wiki](http://fileformats.archiveteam.org/) - Collaborative effort at bringing together information about file formats, initiated by the [Archive Team](http://archiveteam.org/index.php?title=Main_Page) collective. Very good resource with wide coverage of formats.
 * [Sustainability of Digital Formats](http://www.digitalpreservation.gov/formats/index.shtml) - information on file formats by the Library of Congress, with focus on sustainability.
 
+<!--
 ## Extra: hex editing (advanced topic, not covered by session!) 
 
 A [hex editor](https://en.wikipedia.org/wiki/Hex_editor) is a computer program that allows you to view / inspect / edit files at the level of individual bytes. Hex editors represent each byte as a pair of [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) digits. The reason for this is that for a human it is much easier to read hexadecimal (where each byte is represented as exactly 2 symbols) than binary. This can be a bit confusing at first, but it doesn't usually take much time to get used to it. 
 
-Here's is a good explanation of the basic concepts:
+Here's a good explanation of the basic concepts:
 
 [Basic Hex editing guide](http://clockworkcore.org/hex.html)
 
 Then try for yourself in this browser-based hex editor (no need to install anything!):
 
 [Hexed.it](https://hexed.it/)
+-->
