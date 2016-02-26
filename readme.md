@@ -2,9 +2,9 @@
 
 Johan van der Knijff, KB / National Library of the Netherlands
 
-Below is an overview of the topics that are covered by the file formats session, as well as some suggested background reading for each topic. It also lists some advanced topics that are not addressed in the session, but which may be useful for interested readers. Note that this overview is a work in progress, and I will add further updates during the week leading up to the session on 3 March.
+Below is an overview of the topics that are covered by the file formats session with suggested background reading for each topic. It also lists some advanced topics that are not addressed in the session, but which may be useful for interested readers. Note that this overview is a work in progress, and I will add further updates during the week leading up to the session on 3 March.
 
-I will also upload the presentation slides here after the session.
+After the session I will also make the presentation slides available here.
 
 ## Introduction to digital data 
 
