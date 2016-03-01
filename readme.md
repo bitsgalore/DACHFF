@@ -31,6 +31,10 @@ After the session I will also make the presentation slides available here.
 
 * Representation of RGB image data
 
+### Background reading
+
+[Binary file](https://en.wikipedia.org/wiki/Binary_file)
+
 ## Mixed binary / text formats
 
 * PDF
