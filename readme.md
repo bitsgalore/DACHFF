@@ -35,11 +35,6 @@ After the session I will also make the presentation slides available here.
 
 [Binary file](https://en.wikipedia.org/wiki/Binary_file)
 
-## Mixed binary / text formats
-
-* PDF
-* DOCx
-
 ## File format specifications
 
 Some examples:
@@ -62,12 +57,19 @@ Note: this is just to give you an idea what a file format specification looks li
 * [Online HTML validator](https://validator.w3.org/)
 * [Online EPUB validator](http://validator.idpf.org/)
 
+## Master formats for digitisation projects
+
+### Background reading
+
+* [Recommendations on formats and standards useful in digitisation](http://www.digitisation.eu/training/recommendations-for-digitisation-projects/recommendations-formats-standards-recommendations/) from the SUCCEED project; full report [here](http://www.digitisation.eu/download/Succeed_600555_D4.1_RecommendationsOnFormatsAndStandards_v1.1.pdf).
+* [Raster Still Images for Digitization: A Comparison of File Formats](http://www.digitizationguidelines.gov/guidelines/raster_stillImage_compare.html) by the Federal Agencies Digitization Guidelines initiative. Summary report [here](http://www.digitizationguidelines.gov/guidelines/FADGI_RasterFormatCompare_p3_20140829_r.pdf).
+
 ## Information about file formats on the web
 
 * [Archive Team File Formats Wiki](http://fileformats.archiveteam.org/) - Collaborative effort at bringing together information about file formats, initiated by the [Archive Team](http://archiveteam.org/index.php?title=Main_Page) collective. Very good resource with wide coverage of formats.
 * [Sustainability of Digital Formats](http://www.digitalpreservation.gov/formats/index.shtml) - information on file formats by the Library of Congress, with focus on sustainability.
+* [Digital Preservation Q&A ](http://qanda.digipres.org/) - question and answer forum for digital preservation practitioners, good place for asking file-format related questions.  
 
-<!--
 ## Extra: hex editing (advanced topic, not covered by session!) 
 
 A [hex editor](https://en.wikipedia.org/wiki/Hex_editor) is a computer program that allows you to view / inspect / edit files at the level of individual bytes. Hex editors represent each byte as a pair of [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) digits. The reason for this is that for a human it is much easier to read hexadecimal (where each byte is represented as exactly 2 symbols) than binary. This can be a bit confusing at first, but it doesn't usually take much time to get used to it. 
@@ -79,4 +81,3 @@ Here's a good explanation of the basic concepts:
 Then try for yourself in this browser-based hex editor (no need to install anything!):
 
 [Hexed.it](https://hexed.it/)
--->
