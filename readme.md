@@ -3,11 +3,10 @@
 Below is an overview of the topics that are covered by the file formats session, with suggested background reading for each topic. It also lists some advanced topics that are not addressed in the session, but which may be useful for interested readers.
 
 
-<!--
 ## Presentation slides
 
 [Click here to download (PDF)](slides/DACH_fileformats_JvdK.pdf?raw=true) (slides in OpenDocument Presentation format [here](slides/DACH_fileformats_JvdK.odp?raw=true)).
--->
+
 
 ## Introduction to digital data 
 
