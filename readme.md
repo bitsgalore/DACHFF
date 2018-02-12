@@ -42,7 +42,7 @@ Below is an overview of the topics that are covered by the file formats session,
 Some examples:
 
 * [Portable Document Format 1.7, First Edition](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/PDF32000_2008.pdf) (748 pages!)
-* [TIFF Revision 6.0](http://partners.adobe.com/public/developer/en/tiff/TIFF6.pdf)
+* [TIFF Revision 6.0](https://www.itu.int/itudoc/itu-t/com16/tiff-fx/docs/tiff6.pdf)
 * [EPUB 3.01](http://www.idpf.org/epub/301/spec/epub-overview.html) (actually made up of 4 separate parts)
 * [Office Open XML File Formats](http://www.ecma-international.org/publications/standards/Ecma-376.htm) (docx, xlsx, pptx, etc.)
 * [Portable Network Graphics (PNG) Specification](https://www.w3.org/TR/PNG/)
